@@ -15,4 +15,4 @@ _Query 10_ used a content-based filtering to recommend a cocktail to a person ba
 _Query 11_ used a collaborative-based filtering to reccomend a cocktail to a person based on the tastes of other people similar.<br>
 
 ### Graph algorithms
-Algorithms were used on graphs to figure out which cocktails were the most liked.
+It has been used graph algorithms on the graph to figure out which cocktails were the most liked.
